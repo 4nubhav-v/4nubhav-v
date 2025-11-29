@@ -1,4 +1,3 @@
 -  Hi, I’m Anubhav
--  I’m interested in Software Development 
 -  I’m looking to collaborate on open source projects 
 -  You can reach me through Discord : lostglory_
