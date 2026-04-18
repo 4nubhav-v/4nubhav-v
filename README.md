@@ -2,9 +2,9 @@
 
 ### Info
 
-> Hi, I’m Anubhav
-> I’m looking to collaborate on open source projects
-> You can reach me through Discord : xx_4nubhav_xx
+- Hi, I’m Anubhav
+- I’m looking to collaborate on open source projects
+- You can reach me through Discord: xx_4nubhav_xx
 
 ### Projects
 
@@ -15,6 +15,6 @@
 ### Others
 
 - I do love music & i do ~~learn~~ play guitar in my free time
-- I'm a gamer too, [My steam acc](https://steamcommunity.com/id/4nubhav/)
+- I'm a gamer too, [Steam](https://steamcommunity.com/id/4nubhav/)
 
 ---
