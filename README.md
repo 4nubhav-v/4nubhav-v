@@ -2,8 +2,8 @@
 
 ### Info
 
-- Hi, I’m Anubhav
-- I’m looking to collaborate on open source projects
+- Hi, I'm Anubhav
+- I'm looking to collaborate on open source projects
 - You can reach me through Discord: xx_4nubhav_xx
 
 ### Projects
