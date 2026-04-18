@@ -10,11 +10,11 @@
 
 - Music API using MusicBrainz to fetch artist and album metadata
 - C0nfig for my pi4 server
-- _More soon ..._
+- _More soon..._
 
 ### Others
 
-- I do love music & i do ~~learn~~ play guitar in my free time
+- I love music and play guitar in my free time
 - I'm a gamer too, [Steam](https://steamcommunity.com/id/4nubhav/)
 
 ---
