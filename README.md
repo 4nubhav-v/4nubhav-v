@@ -9,7 +9,7 @@
 ### Projects
 
 - Music API using MusicBrainz to fetch artist and album metadata
-- C0nfig for my pi4 server
+- Config for my pi4 server
 - _More soon..._
 
 ### Others
