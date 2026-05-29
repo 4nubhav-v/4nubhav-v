@@ -17,7 +17,7 @@
 
 ### Others
 
-- I love music and play guitar in my free time
+- I love listening to [music](https://www.last.fm/user/lostglory_) and play guitar in my free time
 - I'm a gamer too, [Steam](https://steamcommunity.com/id/4nubhav/)
 
 ---
