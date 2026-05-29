@@ -12,6 +12,9 @@
 - Config for my pi4 server
 - _More soon..._
 
+### Tools
+- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bun, Bootstrap,  Git, Bash, Zsh, React, TailwindCSS, Vite,  Vercel, Docker, Sqlite 
+
 ### Others
 
 - I love music and play guitar in my free time
