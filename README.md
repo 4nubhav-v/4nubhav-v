@@ -13,7 +13,7 @@
 - _More soon..._
 
 ### Tools
-- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bun, Bootstrap,  Git, Bash, Zsh, React, TailwindCSS, Vite,  Vercel, Docker, Sqlite 
+- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bun, Bootstrap, Jekyll,  Git, Bash, Zsh, React, TailwindCSS, Vite,  Vercel, Docker, Sqlite 
 
 ### Others
 
