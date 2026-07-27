@@ -4,7 +4,7 @@
 
 - Hi, I'm Anubhav
 - I'm looking to collaborate on open source projects
-- I'm trying to master frontend & learn backend for my sole nerdyness
+- I'm trying to master frontend & learn backend for my sole nerdiness
 - You can reach me through [Email me](mailto:anubhavbng4@gmail.com)
 
 ## Projects
