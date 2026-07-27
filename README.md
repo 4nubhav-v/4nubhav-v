@@ -1,23 +1,27 @@
-# Hello, I'm **Anubhav**
+# Hi, I'm **Anubhav**
 
-### Info
+## Info
 
 - Hi, I'm Anubhav
 - I'm looking to collaborate on open source projects
-- You can reach me through Discord: xx_4nubhav_xx
+- I'm trying to master frontend & learn backend for my sole nerdyness
+- You can reach me through [Email me](mailto:anubhavbng4@gmail.com)
 
-### Projects
+## Projects
 
 - Music API using MusicBrainz to fetch artist and album metadata
 - Config for my pi4 server
 - _More soon..._
 
-### Tools
-- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bun, Bootstrap, Jekyll,  Git, Bash, Zsh, React, TailwindCSS, Vite,  Vercel, Docker, Nginx, Sqlite 
+## Tools
 
-### Others
+- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bun, Bootstrap, Git, Bash,
+  Zsh, React, TailwindCSS, Vite, Nextjs, Mongodb, Vercel, Docker, Sqlite
 
-- I love listening to [music](https://www.last.fm/user/lostglory_) and play guitar in my free time
+## Others
+
+- I love listening to [music](https://www.last.fm/user/lostglory_)
+- I do love to play guitar in my free time
 - I'm a gamer too, [Steam](https://steamcommunity.com/id/4nubhav/)
 
 ---
