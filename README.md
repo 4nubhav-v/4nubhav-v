@@ -8,7 +8,7 @@
 
 ## Tools
 
-- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bun, Bootstrap, Git, Bash,
+- HTML/CSS, Javascript, Typescript, Python, Nodejs, Bootstrap, Git, Bash,
   Zsh, React, TailwindCSS, Vite, Nextjs, Astro, Mongodb, Vercel, Docker, Sqlite, LaTeX
 
 ## Others
